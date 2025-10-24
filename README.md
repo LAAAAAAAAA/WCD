@@ -4,7 +4,7 @@
 [![PyTorch 2.0+](https://img.shields.io/badge/PyTorch-2.0+-EE4C2C.svg)](https://pytorch.org/)
 
 The WCD framework for lens gravitational wave recognition as described in:  
-**"Identifying Microlensing by Compact Dark Matter through Diffraction Patterns in Gravitational Waves with Machine Learning"** ([arXiv:](https://arxiv.org/abs/)).
+**"Identifying Microlensing by Compact Dark Matter through Diffraction Patterns in Gravitational Waves with Machine Learning"** ([arXiv:](https://doi.org/10.48550/arXiv.2509.04538)).
 
 ## Overview
 This project implements a Diffraction-Aware Gravitational Wavelet Convolutional Detector for lens gravitational wave recognition. 
@@ -62,7 +62,7 @@ python train.py
 If you find this project useful, please cite:
 
 <!-- Associated paper: 
-[BCDDM: Branch-Corrected Denoising Diffusion Model for Black Hole Image Generation](https://arxiv.org/abs/2502.08528)
+[Identifying Microlensing by Compact Dark Matter through Diffraction Patterns in Gravitational Waves with Machine Learning](https://doi.org/10.48550/arXiv.2509.04538)
 
 Dataset: [10.5281/zenodo.15354648](https://doi.org/10.5281/zenodo.15354648) -->
 
